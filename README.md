@@ -4,6 +4,7 @@ AndroidSwipeableCardStack
 
 
 Change log:
+--On the original basis, click events and rotation animation were added.(在原基础上增加了点击事件和轮播动画)
 
 
 Thanks for contributions from:
