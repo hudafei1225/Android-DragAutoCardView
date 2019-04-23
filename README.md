@@ -10,6 +10,6 @@ Thanks for contributions from:
 https://github.com/wenchaojiang/AndroidSwipeableCardStack
  
 
-![image](https://github.com/hudafei1225/Android-DragAutoCardView/youku.gif)
-![image](https://github.com/hudafei1225/Android-DragAutoCardView/demo.gif)
+![image](https://github.com/hudafei1225/Android-DragAutoCardView/blob/master/youku.gif)
+![image](https://github.com/hudafei1225/Android-DragAutoCardView/blob/master/demo.gif)
 
